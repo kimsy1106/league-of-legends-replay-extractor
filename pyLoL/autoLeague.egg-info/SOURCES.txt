@@ -1,0 +1,12 @@
+README.md
+setup.py
+autoLeague/__init__.py
+autoLeague.egg-info/PKG-INFO
+autoLeague.egg-info/SOURCES.txt
+autoLeague.egg-info/dependency_links.txt
+autoLeague.egg-info/requires.txt
+autoLeague.egg-info/top_level.txt
+autoLeague/bin/__init__.py
+autoLeague/bin/utils.py
+autoLeague/replays/__init__.py
+autoLeague/replays/scraper.py

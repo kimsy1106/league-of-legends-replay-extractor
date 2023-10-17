@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: autoLeague
+Version: 1.0.0
+Summary: autoLeague League of Legends dataset settings library
+Home-page: https://github.com/hanueluni1106/pyLoL.git
+Author: hanueluni1106
+Author-email: sykim1106@naver.com
+License: MIT License
+Keywords: League of Legends,Machine Learning,Reinforcement Learning,Supervised Learning,TLoL,Dataset Generation,Data Scraping
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+
+TLoL-py - League of Legends Deep Learning Library
+TLoL-py is the Python component of the TLoL League of
+Legends deep learning library. It provides a set of utility methods and classes
+to deal with League of Legends game playing, deep learning datasets and provides
+a library to build a deep learning agent which can play League of Legends.
+Read the README at https://github.com/MiscellaneousStuff/tlol-py for more information.
+
+
