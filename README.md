@@ -13,7 +13,7 @@ Download directly from github and unzip or clone from the command line
 
 #### 2. Install Requirements
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 #### 3. How to Use
 
