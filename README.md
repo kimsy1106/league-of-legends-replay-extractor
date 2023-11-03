@@ -30,13 +30,15 @@ Download directly from github and unzip or clone from the command line
 
 #### 4. Get Minimap Capture Images
 
-![82_minimap](https://github.com/kimsy1106/league-of-legends-replay-extractor/assets/53938323/25838fe3-e9c0-4823-b5cd-40e0713d6364)
+![image](https://github.com/kimsy1106/league-of-legends-replay-extractor/assets/53938323/83d01e33-0c15-4e59-a83c-1d42991a0ca5)
+
 
 
 #### 5. You can make them( Using Minimap Frame dataset )
 
 - Champion Tracking (Roboflow)
-![image](https://github.com/kimsy1106/league-of-legends-replay-extractor/assets/53938323/fc383c7a-bdac-4c9e-b6e0-fad2bb639aa7)
+![image](https://github.com/kimsy1106/league-of-legends-replay-extractor/assets/53938323/0c678dbf-82e7-4219-9f77-3faf3a58b358)
+
 
 Then, You can use this tracking model ( Performance | mAP : 92.2% | precision : 91.3% | recall : 90.2% )
 - Infer on Local and Hosted Images
