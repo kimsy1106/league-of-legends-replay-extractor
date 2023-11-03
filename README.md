@@ -17,9 +17,15 @@ Download directly from github and unzip or clone from the command line
 
 #### 3. How to Use
 
-  - Collecting Player MatchIDs  : 
-  - Replay File(.rofl) Download : 
-  - Replay Running & Recording  : 
+  - Collecting Player MatchIDs  :
+    
+        python3 data
+  - Replay File(.rofl) Download :
+
+        not yet
+  - Replay Running & Recording  :
+
+        not yet
 
 #### 4. Get Minimap Capture Images
 
