@@ -19,13 +19,13 @@ Download directly from github and unzip or clone from the command line
 
   - Collecting Player MatchIDs  :
     
-        python3 data
+        python3 generator.py
   - Replay File(.rofl) Download :
 
-        not yet
+        python3 downloader.py
   - Replay Running & Recording  :
 
-        not yet
+        python3 scraper.py
 
 #### 4. Get Minimap Capture Images
 
