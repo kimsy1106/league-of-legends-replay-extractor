@@ -31,8 +31,11 @@ Download directly from github and unzip or clone from the command line
 - Champion Tracking (Roboflow)
 ![image](https://github.com/kimsy1106/league-of-legends-replay-extractor/assets/53938323/fc383c7a-bdac-4c9e-b6e0-fad2bb639aa7)
 
+Then, You can use this tracking model ( Performance | mAP : 92.2% | precision : 91.3% | recall : 90.2% )
 - Infer on Local and Hosted Images
-    To install dependencies, pip install roboflow.
+    To install dependencies,
+
+        pip install roboflow.
 
     Then, add the following the following code snippet to a Python script:
   
