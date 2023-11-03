@@ -11,10 +11,11 @@ For more information, see the wiki
 
 Download directly from github and unzip or clone from the command line
 
-#### 2. Install Python 3 and pip
+#### 2. Install Requirements
 
+pip install -r requirements.txt
 
-#### 3. 
+#### 3. How to Use
 
 
 #### 4. Get Minimap Capture Images
