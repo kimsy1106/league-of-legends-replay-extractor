@@ -22,12 +22,17 @@ Download directly from github and unzip or clone from the command line
   - Collecting Player MatchIDs  :
     
         python3 generator.py
+    ![image](https://github.com/kimsy1106/league-of-legends-replay-extractor/assets/53938323/9ea856bb-c76c-4a85-b720-578ea1ef2748)
+
   - Replay File(.rofl) Download :
 
         python3 downloader.py
+    ![image](https://github.com/kimsy1106/league-of-legends-replay-extractor/assets/53938323/25af0427-a308-431f-90af-730881d00a3c)
+
   - Replay Running & Recording  :
 
         python3 scraper.py
+    ![image](https://github.com/kimsy1106/league-of-legends-replay-extractor/assets/53938323/1afbd285-ab26-4095-81a1-5513c78cac2b)
 
 #### 4. Get Minimap Capture Images
 
